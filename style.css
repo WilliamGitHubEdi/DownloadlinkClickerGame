@@ -4,3 +4,7 @@ html,body{
   background-color: #e67e22;
   place-items: center;
 }
+
+.container {
+  font: 500 1rem "Gabarito", sans-serif;
+}
