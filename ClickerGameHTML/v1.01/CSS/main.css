@@ -1,14 +1,14 @@
 body {
     background-color: orange;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .btn {
     border-radius: 10px;
-    display: flex;
     width: 400px;
     height: 400px;
     font-size: 200px;
     cursor: pointer;
-    align-items: center;
-    justify-content: center;
 }
