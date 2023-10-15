@@ -1,0 +1,10 @@
+body {
+    background-color: orange;
+}
+
+.btn {
+    border-radius: 10px;
+    width: 1900px;
+    height: 945px;
+    font-size: 200px;
+}
