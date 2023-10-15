@@ -1,14 +1,10 @@
 body {
     background-color: orange;
-    align-items: center;
-    justify-content: center;
     place-items: center;
 }
 
 .btn {
     border-radius: 10px;
-    width: 400px;
-    height: 400px;
     font-size: 200px;
     cursor: pointer;
 }
