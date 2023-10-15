@@ -4,8 +4,9 @@ body {
 
 .btn {
     border-radius: 10px;
-    width: 1900px;
-    height: 945px;
+    width: 400px;
+    height: 400px;
     font-size: 200px;
     cursor: pointer;
+    text-align: center;
 }
