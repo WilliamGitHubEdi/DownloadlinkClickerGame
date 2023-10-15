@@ -1,8 +1,8 @@
 body {
-    background-color: orange;
-    display: flex;
-    height: 100%;
-    place-items: center;
+    display: grid;
+  height: 100%;
+  background-color: orange;
+  place-items: center;
 }
 
 .btn {
