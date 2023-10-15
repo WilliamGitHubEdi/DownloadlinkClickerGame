@@ -10,4 +10,5 @@ body {
     font-size: 200px;
     cursor: pointer;
     align-items: center;
+    justify-content: center;
 }
