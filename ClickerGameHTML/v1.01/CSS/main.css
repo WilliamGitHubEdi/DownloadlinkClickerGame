@@ -4,9 +4,10 @@ body {
 
 .btn {
     border-radius: 10px;
+    display: flex;
     width: 400px;
     height: 400px;
     font-size: 200px;
     cursor: pointer;
-    place-items: center:
+    align-items: center;
 }
