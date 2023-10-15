@@ -7,4 +7,6 @@ html,body{
 
 .container {
   font: 500 1rem "Gabarito", sans-serif;
+  background-color: white;
+  border-radius: 10px;
 }
