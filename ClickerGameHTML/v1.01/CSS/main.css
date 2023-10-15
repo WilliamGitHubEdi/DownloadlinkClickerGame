@@ -8,5 +8,5 @@ body {
     height: 400px;
     font-size: 200px;
     cursor: pointer;
-    text-align: center;
+    place-items: center:
 }
