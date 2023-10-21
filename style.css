@@ -19,4 +19,10 @@ html,body{
 
 .link {
   color: orange;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
 }
