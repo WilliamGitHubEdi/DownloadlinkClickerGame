@@ -1,8 +1,9 @@
-body {
-    display: grid;
+.container {
+  display: grid;
   height: 100%;
   background-color: orange;
   place-items: center;
+  text-align: center;
 }
 
 .btn {
