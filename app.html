@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>App for Clickergame</title>
+</head>
+<body>
+    <p>Score: <span id="score">0</span></p>
+    <button onclick="addToScore(1)">Click</button>
+    <p>^</p>
+    <p>|</p>
+    <p>Clicker Game</p>
+</body>
+    <script>
+        var score = 0;
+
+        function addToScore(amount) {
+            score = score + amount;
+            document.getElementById("score").innerHTML = score;
+        }
+
+    </script>
+</html>
